@@ -1,6 +1,6 @@
-websocket-client==1.2.1
-discord==2.3.2
-requests==2.26.0  # Replace with the appropriate version or remove if using Python's built-in json module
-asyncio==3.4.3
-typing==3.10.3.0
-colorama==0.4.4
+websocket-client~=1.2
+discord~=1.0
+requests~=2.26
+asyncio~=3.5
+typing~=3.10
+colorama~=0.4
