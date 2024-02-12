@@ -71,7 +71,7 @@ def Check_Tokens(token):
     print("KaramveerPlayZ#1337 | {} Is Invaild Token And Removed From List.".format(token))
 
 
-for token in open('/etc/secrets/tokens', 'r').readlines():
+for token in open('/etc/secrets/token', 'r').readlines():
   tk = token.strip()
   unchecked_tokens.append(tk)
 
