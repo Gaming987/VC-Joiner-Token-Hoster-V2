@@ -2,5 +2,5 @@ websocket-client~=1.2
 discord~=1.0
 requests~=2.26
 asyncio~=3.4.3
-typing~=3.10
+typing~=3.7.4.3
 colorama~=0.4
