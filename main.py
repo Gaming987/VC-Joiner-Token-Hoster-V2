@@ -56,7 +56,7 @@ tokens = []
 verify_tken = []
 unchecked_tokens = []
 session = requests.Session()
-url = "https://discord.com/api/v9/users/@me"
+url = "https://discord.com/api/v10/users/@me"
 
 
 def Check_Tokens(token):
